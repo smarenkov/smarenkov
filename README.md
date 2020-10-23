@@ -1,8 +1,8 @@
 ## Website
 
-[GitHub Page](smarenkov.github.io)
+[GitHub Page](https://smarenkov.github.io)
 
-[RolePlay2Gamers](rp2g.github.io)
+[RolePlay2Gamers](https://rp2g.github.io)
 
 ## Software
 ![flutter](./icons/flutter.png)
