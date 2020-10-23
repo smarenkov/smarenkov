@@ -1,6 +1,13 @@
-### Hi there 👋
+## Software
+![flutter](./icons/flutter.png)
+![unity](./icons/unity-32.png) 
 
-![unity](https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15060036801552037048-512.png =32x32)
+## Programming language
+![dart](./icons/dart.png)
+![javascript](./icons/javascript.png)
+![vue](./icons/vue.png)
+![c-sharp](./icons/c-sharp.png)
+![java](./icons/java.png)
 
 <!--
 **smarenkov/smarenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
