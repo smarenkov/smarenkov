@@ -1,6 +1,6 @@
 ## Software
 ![flutter](./icons/flutter.png)
-![unity](./icons/unity-32.png) 
+![unity](./icons/unity.png) 
 
 ## Programming language
 ![dart](./icons/dart.png)
