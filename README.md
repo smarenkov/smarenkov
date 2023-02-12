@@ -4,14 +4,14 @@
 
 [RolePlay2Gamers](https://rp2g.github.io)
 
-## Software
+## Framework
 ![flutter](./icons/flutter.png)
 ![unity](./icons/unity.png) 
+![vue](./icons/vue.png)
 
 ## Programming language
 ![dart](./icons/dart.png)
 ![javascript](./icons/javascript.png)
-![vue](./icons/vue.png)
 ![c-sharp](./icons/c-sharp.png)
 ![java](./icons/java.png)
 
