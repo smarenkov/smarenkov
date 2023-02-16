@@ -4,16 +4,17 @@
 
 [RolePlay2Gamers](https://rp2g.github.io)
 
-## Framework
+## Frameworks
 ![flutter](./icons/flutter.png)
-![unity](./icons/unity.png) 
+![spring-boot](./icons/spring-boot.png)
 ![vue](./icons/vue.png)
+![unity](./icons/unity.png) 
 
-## Programming language
+## Programming languages
 ![dart](./icons/dart.png)
+![java](./icons/java.png)
 ![javascript](./icons/javascript.png)
 ![c-sharp](./icons/c-sharp.png)
-![java](./icons/java.png)
 
 <!--
 **smarenkov/smarenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
