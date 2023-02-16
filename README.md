@@ -1,9 +1,3 @@
-## Website
-
-[GitHub Page](https://smarenkov.github.io)
-
-[RolePlay2Gamers](https://rp2g.github.io)
-
 ## Frameworks
 ![flutter](./icons/flutter.png)
 ![spring-boot](./icons/spring-boot.png)
