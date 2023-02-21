@@ -1,14 +1,14 @@
-## Frameworks
-![flutter](./icons/flutter.png)
-![spring-boot](./icons/spring-boot.png)
-![vue](./icons/vue.png)
-![unity](./icons/unity.png) 
+### Frameworks
+![flutter](./icons/frameworks/flutter.png)
+![spring-boot](./icons/frameworks/spring-boot.png)
+![vue](./icons/frameworks/vue.png)
+![unity](./icons/frameworks/unity.png) 
 
-## Programming languages
-![dart](./icons/dart.png)
-![java](./icons/java.png)
-![javascript](./icons/javascript.png)
-![c-sharp](./icons/c-sharp.png)
+### Programming languages
+![dart](./icons/programming-languages/dart.png)
+![java](./icons/programming-languages/java.png)
+![javascript](./icons/programming-languages/javascript.png)
+![c-sharp](./icons/programming-languages/c-sharp.png)
 
 <!--
 **smarenkov/smarenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
