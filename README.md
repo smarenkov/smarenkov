@@ -15,6 +15,8 @@
 [![linkedin](./icons/contacts/linkedin.png)](https://www.linkedin.com/in/simon-marenkov/)
 [![telegram](./icons/contacts/telegram.png)](https://t.me/smarenkov)
 
+### You can also find me on [LeetCode](https://leetcode.com/smarenkov/)
+
 <!--
 **smarenkov/smarenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
