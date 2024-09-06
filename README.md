@@ -12,7 +12,7 @@
 
 ### Contact me
 [![gmail](./icons/contacts/gmail.png)](mailto:simon@marenkov.com)
-[![linkedin](./icons/contacts/linkedin.png)](https://www.linkedin.com/in/simon-marenkov/)
+[![linkedin](./icons/contacts/linkedin.png)](https://www.linkedin.com/in/shimon-marenkov/)
 [![telegram](./icons/contacts/telegram.png)](https://t.me/smarenkov)
 
 ### You can also find me on [LeetCode](https://leetcode.com/smarenkov/)
