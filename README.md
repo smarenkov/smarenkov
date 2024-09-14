@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [todo_app](https://github.com/smarenkov/todo_app)
 
-- 💬 Ask me about **[@flutter](https://github.com/flutter), [dart](https://github.com/dart-lang)** 
+- 💬 Ask me about **[@flutter](https://github.com/flutter), [@dart](https://github.com/dart-lang)** 
 
 - 📫 How to reach me **simon.marenkov@gmail.com**
 
