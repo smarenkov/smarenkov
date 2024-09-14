@@ -1,21 +1,21 @@
-### Frameworks
-![flutter](./icons/frameworks/flutter.png)
-![spring-boot](./icons/frameworks/spring-boot.png)
-![vue](./icons/frameworks/vue.png)
-![unity](./icons/frameworks/unity.png) 
+<h1 align="left">Hi 👋, I'm Shimon</h1>
+<h3 align="left">I'm developing cross-platform apps using Flutter framework</h3>
 
-### Programming languages
-![dart](./icons/programming-languages/dart.png)
-![java](./icons/programming-languages/java.png)
-![javascript](./icons/programming-languages/javascript.png)
-![c-sharp](./icons/programming-languages/c-sharp.png)
+- 🔭 I’m currently working on [todo_app](https://github.com/smarenkov/todo_app)
 
-### Contact me
-[![gmail](./icons/contacts/gmail.png)](mailto:simon@marenkov.com)
-[![linkedin](./icons/contacts/linkedin.png)](https://www.linkedin.com/in/shimon-marenkov/)
-[![telegram](./icons/contacts/telegram.png)](https://t.me/smarenkov)
+- 💬 Ask me about **flutter, dart**
 
-### You can also find me on [LeetCode](https://leetcode.com/smarenkov/)
+- 📫 How to reach me **simon.marenkov@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/shimon-marenkov/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shimon-marenkov/" height="30" width="40" /></a>
+<!-- LeetCode -->
+<a href="https://www.leetcode.com/smarenkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smarenkov" height="30" width="40" /></a>
+</p>
+
+<!-- Stats -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smarenkov&show_icons=true&locale=en&layout=compact" alt="smarenkov" /></p>
 
 <!--
 **smarenkov/smarenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
