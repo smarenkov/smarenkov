@@ -15,7 +15,7 @@
 </p>
 
 <!-- Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smarenkov&layout=compact&hide=cmake,c%2B%2B,ruby" alt="smarenkov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smarenkov&layout=compact&hide=cmake,c%2B%2B,ruby" alt="top-langs-stats" /></p>
 
 <!--
 **smarenkov/smarenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
