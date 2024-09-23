@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Shimon</h1>
 <h3 align="left">I'm developing cross-platform apps using Flutter framework</h3>
 
-- 🔭 I’m currently working on [todo_app](https://github.com/smarenkov/todo_app)
+<!-- - 🔭 I’m currently working on [todo_app](https://github.com/smarenkov/todo_app) -->
 
 - 💬 Ask me about **[@flutter](https://github.com/flutter), [@dart](https://github.com/dart-lang)** 
 
