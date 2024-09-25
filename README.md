@@ -15,6 +15,8 @@
 </p>
 
 <!-- Stats -->
+<h3 align="left">Connect with me:</h3>
+<!-- Top langs stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smarenkov&layout=compact&hide=cmake,c%2B%2B,ruby" alt="top-langs-stats" /></p>
 
 <!--
