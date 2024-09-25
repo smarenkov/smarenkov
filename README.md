@@ -16,8 +16,13 @@
 
 <!-- Stats -->
 <h3 align="left">Stats:</h3>
+
 <!-- Top langs stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smarenkov&layout=compact&hide=cmake,c%2B%2B,ruby" alt="top-langs-stats" /></p>
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=smarenkov&layout=compact&hide=cmake,c%2B%2B,ruby)
+
+<!-- Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=smarenkov&card_width=299&card_height=163.35&background=FFFEFE&hide_total_contributions=true&hide_longest_streak=true)
+
 
 <!--
 **smarenkov/smarenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
