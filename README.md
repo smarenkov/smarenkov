@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Shimon</h1>
-<h3 align="left">I'm Full Stack Developer</h3>
+<!-- <h3 align="left">I'm Full Stack Developer</h3> -->
 
 <!-- - 🔭 I’m currently working on [todo_app](https://github.com/smarenkov/todo_app) -->
 
 <!-- -- 💬 Ask me about **[@flutter](https://github.com/flutter), [@dart](https://github.com/dart-lang)**  -->
 
-- 📫 How to reach me **simon.marenkov@gmail.com**
+<!-- - 📫 How to reach me **simon.marenkov@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <!-- LinkedIn -->
